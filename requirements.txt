@@ -1,0 +1,4 @@
+cryptography==36.0.2
+gmssl==3.2.2
+pycryptodome==3.11.0
+rsa==4.9
